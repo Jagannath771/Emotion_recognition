@@ -56,12 +56,9 @@ facial-emotion-recognition/
 
 ## Acknowledgments
 
-This project is developed by [Your Name] as part of [Course/Research Project/Personal Exploration]. The code and resources provided here serve as a starting point for facial emotion recognition tasks.
+This project is developed by Jagannath Sai Kasarabada as part of [Course/Research Project/Personal Exploration]. The code and resources provided here serve as a starting point for facial emotion recognition tasks.
 
-Feel free to explore, modify, and expand upon this project to suit your needs. If you encounter any issues or have questions, please don't hesitate to [contact me](mailto:your.email@example.com).
+Feel free to explore, modify, and expand upon this project to suit your needs. If you encounter any issues or have questions, please don't hesitate to [contact me](jagannathsai771@gmail.com).
 
-**Note:** Replace `[Your Name]` and `[Course/Research Project/Personal Exploration]` with your actual name and context.
-
-**Disclaimer:** The dataset used in this project is not included due to licensing restrictions. Please ensure you have the necessary rights to use the dataset for your experiments.
 
 
