@@ -54,11 +54,6 @@ facial-emotion-recognition/
 └── .gitignore # Git ignore file
 
 
-## Acknowledgments
-
-This project is developed by Jagannath Sai Kasarabada as part of [Course/Research Project/Personal Exploration]. The code and resources provided here serve as a starting point for facial emotion recognition tasks.
-
-Feel free to explore, modify, and expand upon this project to suit your needs. If you encounter any issues or have questions, please don't hesitate to [contact me](jagannathsai771@gmail.com).
 
 
 
