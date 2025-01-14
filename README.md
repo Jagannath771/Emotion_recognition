@@ -32,6 +32,8 @@ cd facial-emotion-recognition
 2. Download and Preprocess Dataset: Download the facial emotion recognition dataset and preprocess it according to the provided preprocessing techniques.
 
 3. Install Dependencies: Install the required Python packages using `requirements.txt`:
+
+
 facial-emotion-recognition/
 │
 ├── data/ # Placeholder for the dataset (not included)
